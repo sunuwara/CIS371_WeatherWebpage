@@ -13,7 +13,7 @@ This project was bootstrapped with:
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Twitter Bootstrap](https://getbootstrap.com/)
 
-This project is hosted through (cis.gvsu.edu) at (https://cis.gvsu.edu/~sunuwara/weather-forecast/).
+This project is hosted through cis.gvsu.edu at (https://cis.gvsu.edu/~sunuwara/weather-forecast/).
 
 ## Available Scripts
 
